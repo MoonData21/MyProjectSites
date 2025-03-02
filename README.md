@@ -9,5 +9,10 @@ Description: This is a Django project that registers a user and allows the users
 
 Description: This project utilizes Python and Shiny to make a web application showing various charts and data figures for this mock electronics data. 
 
-3. 
+3. https://moondata21.shinyapps.io/housingdataapp/
 
+Description: This project utilizes Python and Shiny to make a web application showing various charts and data figures for Zillow's Housing Data. The data includes the United States as a whole, all of the states, and many cities within the states as well. The three topics are Median List Price, Home Inventory Numbers, and New Listing Numbers.
+
+4. https://ams-music-playlist.netlify.app/playlist/2023
+
+Description: This music project utilizes TabletopJS to make play a music playlist from Youtube videos. There is also a section for music resources and my top ten albums from the 2010's as well. 

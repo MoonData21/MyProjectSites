@@ -5,7 +5,7 @@ Here is a list of my project web apps.
 
 Description: A compilation of my data analyst, data science, and computer programming projects made with Python, PowerBI, Tableau, Excel, and ReactJS.
 
-3. My Food Recipe Projects App: https://moonsrecipeapp-20e62da05e68.herokuapp.com/
+2. My Food Recipe Projects App: https://moonsrecipeapp-20e62da05e68.herokuapp.com/
 
 Description: This is a Django project that registers a user and allows the users to create, read, update, and delete (CRUD operations) food recipes. 
 
